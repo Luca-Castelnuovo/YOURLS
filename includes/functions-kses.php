@@ -520,7 +520,7 @@ function yourls_kses_allowed_protocols() {
 		'file://', 'smb://',
 		'sftp://',
 		'feed:', 'feed://',
-		'mailto:',
+		'mailto:', 'tel:',
 		'news:', 'nntp://',
 		
 		// Old school bearded geek
